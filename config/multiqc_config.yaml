@@ -1,0 +1,10 @@
+custom_data:
+  ultraplex:
+    file_format: "tsv"
+    section_name: "Ultraplex summary"
+    description: "Summary of Ultraplex demultiplexing logs"
+    plot_type: "table"
+
+sp:
+  ultraplex:
+    fn: "ultraplex_summary.tsv"
